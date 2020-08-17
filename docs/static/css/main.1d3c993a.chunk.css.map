@@ -1,0 +1,1 @@
+{"version":3,"sources":["index.css"],"names":[],"mappings":"AAAA,EACE,gCACF,CAEA,KACE,YACF,CAEA,cACE,YACF,CAEA,YACE,eACF","file":"main.1d3c993a.chunk.css","sourcesContent":["*{\n  font-family: Helvetica, sans-serif;\n}\n\nbody{\n  padding: 60px;\n}\n\n.card-img-top{\n  height: 15rem;\n}\n\n.card-title{\n  font-size: 0.9rem;\n}"]}
